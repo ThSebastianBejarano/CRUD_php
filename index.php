@@ -1,11 +1,3 @@
 <?php
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <h1>HOLA MUNDO</h1>
-  </body>
-</html>
+require_once 'Views/index.html';
+ ?>
