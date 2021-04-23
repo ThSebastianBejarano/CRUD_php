@@ -9,7 +9,7 @@
 
   //Rutas
   define('RUTA_MAIN', dirname(dirname(__FILE__)));
-  define('RUTA_URL', 'https://github.com/ThSebastianBejarano/CRUD_php/');
+  define('RUTA_URL', 'https://proyectozoologico.herokuapp.com/CRUD_php/');
   define('RUTA_SITIO', 'CRUD_Zoologico');
 
  ?>
