@@ -9,7 +9,7 @@
 
   //Rutas
   define('RUTA_MAIN', dirname(dirname(__FILE__)));
-  define('RUTA_URL', 'https://gallant-rosalind-69489d.netlify.app/');
+  define('RUTA_URL', 'https://proyectozoologico.herokuapp.com/');
   define('RUTA_SITIO', 'CRUD_Zoologico');
 
  ?>
