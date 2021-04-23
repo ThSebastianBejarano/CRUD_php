@@ -1,3 +1,7 @@
 <?php
-require_once 'Views/index.html';
+
+require_once 'Libs/app.php';
+
+$start = new Core;
+
  ?>
